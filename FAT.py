@@ -15,11 +15,11 @@ parser.add_argument('--epochs', type=int, default=120, metavar='N', help='number
 parser.add_argument('--weight_decay', '--wd', default=2e-4, type=float, metavar='W')
 parser.add_argument('--lr', type=float, default=0.1, metavar='LR', help='learning rate')
 parser.add_argument('--momentum', type=float, default=0.9, metavar='M', help='SGD momentum')
-parser.add_argument('--epsilon', type=float, default=0.031, help='perturbation bound')
+parser.add_argument('--epsilon', type=float, default=4/255, help='perturbation bound')
 parser.add_argument('--num_steps', type=int, default=10, help='maximum perturbation step K')
 parser.add_argument('--step_size', type=float, default=0.007, help='step size')
 parser.add_argument('--seed', type=int, default=7, metavar='S', help='random seed')
-parser.add_argument('--net', type=str, default="WRN_madry",
+parser.add_argument('--net', type=str, default="smallcnn",
                     help="decide which network to use,choose from smallcnn,resnet18,WRN")
 parser.add_argument('--tau', type=int, default=0, help='step tau')
 parser.add_argument('--dataset', type=str, default="cifar10", help="choose from cifar10,svhn")
