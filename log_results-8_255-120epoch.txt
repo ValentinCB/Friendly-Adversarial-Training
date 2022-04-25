@@ -1,0 +1,239 @@
+Epoch: [1 | 120] | Train Time: 46.00 s | BP Average: 1.51 | Natural Test Acc 0.34 | FGSM Test Acc 0.17 | PGD20 Test Acc 0.12 | CW Test Acc 0.12 |
+
+Epoch: [2 | 120] | Train Time: 50.00 s | BP Average: 2.27 | Natural Test Acc 0.47 | FGSM Test Acc 0.22 | PGD20 Test Acc 0.12 | CW Test Acc 0.14 |
+
+Epoch: [3 | 120] | Train Time: 52.00 s | BP Average: 2.87 | Natural Test Acc 0.54 | FGSM Test Acc 0.26 | PGD20 Test Acc 0.15 | CW Test Acc 0.15 |
+
+Epoch: [4 | 120] | Train Time: 55.00 s | BP Average: 3.23 | Natural Test Acc 0.62 | FGSM Test Acc 0.26 | PGD20 Test Acc 0.11 | CW Test Acc 0.13 |
+
+Epoch: [5 | 120] | Train Time: 55.00 s | BP Average: 3.43 | Natural Test Acc 0.62 | FGSM Test Acc 0.29 | PGD20 Test Acc 0.14 | CW Test Acc 0.16 |
+
+Epoch: [6 | 120] | Train Time: 57.00 s | BP Average: 3.67 | Natural Test Acc 0.63 | FGSM Test Acc 0.31 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
+
+Epoch: [7 | 120] | Train Time: 59.00 s | BP Average: 3.79 | Natural Test Acc 0.69 | FGSM Test Acc 0.34 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
+
+Epoch: [8 | 120] | Train Time: 58.00 s | BP Average: 3.84 | Natural Test Acc 0.72 | FGSM Test Acc 0.33 | PGD20 Test Acc 0.13 | CW Test Acc 0.14 |
+
+Epoch: [9 | 120] | Train Time: 59.00 s | BP Average: 4.00 | Natural Test Acc 0.74 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
+
+Epoch: [10 | 120] | Train Time: 62.00 s | BP Average: 4.27 | Natural Test Acc 0.70 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
+
+Epoch: [11 | 120] | Train Time: 61.00 s | BP Average: 4.18 | Natural Test Acc 0.75 | FGSM Test Acc 0.38 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
+
+Epoch: [12 | 120] | Train Time: 61.00 s | BP Average: 4.15 | Natural Test Acc 0.77 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [13 | 120] | Train Time: 63.00 s | BP Average: 4.29 | Natural Test Acc 0.78 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
+
+Epoch: [14 | 120] | Train Time: 62.00 s | BP Average: 4.32 | Natural Test Acc 0.75 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
+
+Epoch: [15 | 120] | Train Time: 63.00 s | BP Average: 4.41 | Natural Test Acc 0.75 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
+
+Epoch: [16 | 120] | Train Time: 63.00 s | BP Average: 4.46 | Natural Test Acc 0.74 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.15 | CW Test Acc 0.16 |
+
+Epoch: [17 | 120] | Train Time: 64.00 s | BP Average: 4.51 | Natural Test Acc 0.77 | FGSM Test Acc 0.39 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [18 | 120] | Train Time: 63.00 s | BP Average: 4.48 | Natural Test Acc 0.79 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [19 | 120] | Train Time: 63.00 s | BP Average: 4.47 | Natural Test Acc 0.71 | FGSM Test Acc 0.34 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
+
+Epoch: [20 | 120] | Train Time: 64.00 s | BP Average: 4.57 | Natural Test Acc 0.79 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [21 | 120] | Train Time: 63.00 s | BP Average: 4.51 | Natural Test Acc 0.80 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [22 | 120] | Train Time: 65.00 s | BP Average: 4.67 | Natural Test Acc 0.79 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
+
+Epoch: [23 | 120] | Train Time: 64.00 s | BP Average: 4.60 | Natural Test Acc 0.73 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
+
+Epoch: [24 | 120] | Train Time: 64.00 s | BP Average: 4.59 | Natural Test Acc 0.74 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
+
+Epoch: [25 | 120] | Train Time: 65.00 s | BP Average: 4.81 | Natural Test Acc 0.79 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
+
+Epoch: [26 | 120] | Train Time: 64.00 s | BP Average: 4.55 | Natural Test Acc 0.78 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
+
+Epoch: [27 | 120] | Train Time: 65.00 s | BP Average: 4.68 | Natural Test Acc 0.67 | FGSM Test Acc 0.30 | PGD20 Test Acc 0.14 | CW Test Acc 0.15 |
+
+Epoch: [28 | 120] | Train Time: 65.00 s | BP Average: 4.70 | Natural Test Acc 0.78 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
+
+Epoch: [29 | 120] | Train Time: 65.00 s | BP Average: 4.72 | Natural Test Acc 0.77 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.22 | CW Test Acc 0.23 |
+
+Epoch: [30 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [31 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.77 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
+
+Epoch: [32 | 120] | Train Time: 66.00 s | BP Average: 4.85 | Natural Test Acc 0.74 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.17 | CW Test Acc 0.18 |
+
+Epoch: [33 | 120] | Train Time: 65.00 s | BP Average: 4.65 | Natural Test Acc 0.65 | FGSM Test Acc 0.28 | PGD20 Test Acc 0.11 | CW Test Acc 0.12 |
+
+Epoch: [34 | 120] | Train Time: 65.00 s | BP Average: 4.69 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
+
+Epoch: [35 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
+
+Epoch: [36 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.18 | CW Test Acc 0.19 |
+
+Epoch: [37 | 120] | Train Time: 67.00 s | BP Average: 4.91 | Natural Test Acc 0.80 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.18 | CW Test Acc 0.19 |
+
+Epoch: [38 | 120] | Train Time: 65.00 s | BP Average: 4.80 | Natural Test Acc 0.71 | FGSM Test Acc 0.35 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
+
+Epoch: [39 | 120] | Train Time: 66.00 s | BP Average: 4.94 | Natural Test Acc 0.76 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.23 | CW Test Acc 0.25 |
+
+Epoch: [40 | 120] | Train Time: 66.00 s | BP Average: 4.89 | Natural Test Acc 0.81 | FGSM Test Acc 0.45 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
+
+Epoch: [41 | 120] | Train Time: 66.00 s | BP Average: 4.91 | Natural Test Acc 0.78 | FGSM Test Acc 0.38 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
+
+Epoch: [42 | 120] | Train Time: 66.00 s | BP Average: 4.89 | Natural Test Acc 0.72 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.17 | CW Test Acc 0.19 |
+
+Epoch: [43 | 120] | Train Time: 67.00 s | BP Average: 5.01 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.23 | CW Test Acc 0.25 |
+
+Epoch: [44 | 120] | Train Time: 66.00 s | BP Average: 4.88 | Natural Test Acc 0.80 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
+
+Epoch: [45 | 120] | Train Time: 66.00 s | BP Average: 4.86 | Natural Test Acc 0.80 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
+
+Epoch: [46 | 120] | Train Time: 67.00 s | BP Average: 5.00 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
+
+Epoch: [47 | 120] | Train Time: 67.00 s | BP Average: 5.00 | Natural Test Acc 0.83 | FGSM Test Acc 0.46 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
+
+Epoch: [48 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.77 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
+
+Epoch: [49 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
+
+Epoch: [50 | 120] | Train Time: 67.00 s | BP Average: 4.93 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
+
+Epoch: [51 | 120] | Train Time: 76.00 s | BP Average: 6.16 | Natural Test Acc 0.81 | FGSM Test Acc 0.51 | PGD20 Test Acc 0.29 | CW Test Acc 0.29 |
+
+Epoch: [52 | 120] | Train Time: 77.00 s | BP Average: 6.29 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.27 | CW Test Acc 0.27 |
+
+Epoch: [53 | 120] | Train Time: 78.00 s | BP Average: 6.30 | Natural Test Acc 0.81 | FGSM Test Acc 0.50 | PGD20 Test Acc 0.29 | CW Test Acc 0.29 |
+
+Epoch: [54 | 120] | Train Time: 77.00 s | BP Average: 6.27 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.25 | CW Test Acc 0.26 |
+
+Epoch: [55 | 120] | Train Time: 77.00 s | BP Average: 6.25 | Natural Test Acc 0.81 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
+
+Epoch: [56 | 120] | Train Time: 77.00 s | BP Average: 6.15 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.27 | CW Test Acc 0.28 |
+
+Epoch: [57 | 120] | Train Time: 77.00 s | BP Average: 6.23 | Natural Test Acc 0.81 | FGSM Test Acc 0.50 | PGD20 Test Acc 0.29 | CW Test Acc 0.30 |
+
+Epoch: [58 | 120] | Train Time: 77.00 s | BP Average: 6.19 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
+
+Epoch: [59 | 120] | Train Time: 76.00 s | BP Average: 6.17 | Natural Test Acc 0.81 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
+
+Epoch: [60 | 120] | Train Time: 81.00 s | BP Average: 6.95 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [61 | 120] | Train Time: 83.00 s | BP Average: 7.10 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [62 | 120] | Train Time: 83.00 s | BP Average: 7.13 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [63 | 120] | Train Time: 83.00 s | BP Average: 7.18 | Natural Test Acc 0.85 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [64 | 120] | Train Time: 83.00 s | BP Average: 7.21 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [65 | 120] | Train Time: 83.00 s | BP Average: 7.23 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [66 | 120] | Train Time: 84.00 s | BP Average: 7.24 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [67 | 120] | Train Time: 84.00 s | BP Average: 7.27 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [68 | 120] | Train Time: 84.00 s | BP Average: 7.28 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [69 | 120] | Train Time: 84.00 s | BP Average: 7.30 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [70 | 120] | Train Time: 84.00 s | BP Average: 7.30 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [71 | 120] | Train Time: 84.00 s | BP Average: 7.32 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.34 |
+
+Epoch: [72 | 120] | Train Time: 84.00 s | BP Average: 7.34 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [73 | 120] | Train Time: 85.00 s | BP Average: 7.36 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [74 | 120] | Train Time: 85.00 s | BP Average: 7.36 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [75 | 120] | Train Time: 86.00 s | BP Average: 7.36 | Natural Test Acc 0.87 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [76 | 120] | Train Time: 85.00 s | BP Average: 7.38 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [77 | 120] | Train Time: 85.00 s | BP Average: 7.39 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [78 | 120] | Train Time: 85.00 s | BP Average: 7.39 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [79 | 120] | Train Time: 85.00 s | BP Average: 7.41 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [80 | 120] | Train Time: 85.00 s | BP Average: 7.42 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [81 | 120] | Train Time: 85.00 s | BP Average: 7.42 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [82 | 120] | Train Time: 85.00 s | BP Average: 7.43 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [83 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [84 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [85 | 120] | Train Time: 86.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
+
+Epoch: [86 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [87 | 120] | Train Time: 85.00 s | BP Average: 7.45 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
+
+Epoch: [88 | 120] | Train Time: 86.00 s | BP Average: 7.46 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [89 | 120] | Train Time: 86.00 s | BP Average: 7.47 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [90 | 120] | Train Time: 86.00 s | BP Average: 7.59 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [91 | 120] | Train Time: 90.00 s | BP Average: 8.03 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [92 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [93 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [94 | 120] | Train Time: 91.00 s | BP Average: 8.06 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [95 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [96 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
+
+Epoch: [97 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [98 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [99 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [100 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [101 | 120] | Train Time: 90.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [102 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [103 | 120] | Train Time: 90.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [104 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [105 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [106 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [107 | 120] | Train Time: 92.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [108 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [109 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [110 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [111 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [112 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [113 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [114 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [115 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [116 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [117 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [118 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [119 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+
+Epoch: [120 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
