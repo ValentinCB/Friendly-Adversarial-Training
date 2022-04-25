@@ -1,239 +1,121 @@
-Epoch: [1 | 120] | Train Time: 46.00 s | BP Average: 1.51 | Natural Test Acc 0.34 | FGSM Test Acc 0.17 | PGD20 Test Acc 0.12 | CW Test Acc 0.12 |
-
-Epoch: [2 | 120] | Train Time: 50.00 s | BP Average: 2.27 | Natural Test Acc 0.47 | FGSM Test Acc 0.22 | PGD20 Test Acc 0.12 | CW Test Acc 0.14 |
-
-Epoch: [3 | 120] | Train Time: 52.00 s | BP Average: 2.87 | Natural Test Acc 0.54 | FGSM Test Acc 0.26 | PGD20 Test Acc 0.15 | CW Test Acc 0.15 |
-
-Epoch: [4 | 120] | Train Time: 55.00 s | BP Average: 3.23 | Natural Test Acc 0.62 | FGSM Test Acc 0.26 | PGD20 Test Acc 0.11 | CW Test Acc 0.13 |
-
-Epoch: [5 | 120] | Train Time: 55.00 s | BP Average: 3.43 | Natural Test Acc 0.62 | FGSM Test Acc 0.29 | PGD20 Test Acc 0.14 | CW Test Acc 0.16 |
-
-Epoch: [6 | 120] | Train Time: 57.00 s | BP Average: 3.67 | Natural Test Acc 0.63 | FGSM Test Acc 0.31 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
-
-Epoch: [7 | 120] | Train Time: 59.00 s | BP Average: 3.79 | Natural Test Acc 0.69 | FGSM Test Acc 0.34 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
-
-Epoch: [8 | 120] | Train Time: 58.00 s | BP Average: 3.84 | Natural Test Acc 0.72 | FGSM Test Acc 0.33 | PGD20 Test Acc 0.13 | CW Test Acc 0.14 |
-
-Epoch: [9 | 120] | Train Time: 59.00 s | BP Average: 4.00 | Natural Test Acc 0.74 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
-
-Epoch: [10 | 120] | Train Time: 62.00 s | BP Average: 4.27 | Natural Test Acc 0.70 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
-
-Epoch: [11 | 120] | Train Time: 61.00 s | BP Average: 4.18 | Natural Test Acc 0.75 | FGSM Test Acc 0.38 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
-
-Epoch: [12 | 120] | Train Time: 61.00 s | BP Average: 4.15 | Natural Test Acc 0.77 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [13 | 120] | Train Time: 63.00 s | BP Average: 4.29 | Natural Test Acc 0.78 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
-
-Epoch: [14 | 120] | Train Time: 62.00 s | BP Average: 4.32 | Natural Test Acc 0.75 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
-
-Epoch: [15 | 120] | Train Time: 63.00 s | BP Average: 4.41 | Natural Test Acc 0.75 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
-
-Epoch: [16 | 120] | Train Time: 63.00 s | BP Average: 4.46 | Natural Test Acc 0.74 | FGSM Test Acc 0.36 | PGD20 Test Acc 0.15 | CW Test Acc 0.16 |
-
-Epoch: [17 | 120] | Train Time: 64.00 s | BP Average: 4.51 | Natural Test Acc 0.77 | FGSM Test Acc 0.39 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [18 | 120] | Train Time: 63.00 s | BP Average: 4.48 | Natural Test Acc 0.79 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [19 | 120] | Train Time: 63.00 s | BP Average: 4.47 | Natural Test Acc 0.71 | FGSM Test Acc 0.34 | PGD20 Test Acc 0.16 | CW Test Acc 0.18 |
-
-Epoch: [20 | 120] | Train Time: 64.00 s | BP Average: 4.57 | Natural Test Acc 0.79 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [21 | 120] | Train Time: 63.00 s | BP Average: 4.51 | Natural Test Acc 0.80 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [22 | 120] | Train Time: 65.00 s | BP Average: 4.67 | Natural Test Acc 0.79 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
-
-Epoch: [23 | 120] | Train Time: 64.00 s | BP Average: 4.60 | Natural Test Acc 0.73 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
-
-Epoch: [24 | 120] | Train Time: 64.00 s | BP Average: 4.59 | Natural Test Acc 0.74 | FGSM Test Acc 0.40 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
-
-Epoch: [25 | 120] | Train Time: 65.00 s | BP Average: 4.81 | Natural Test Acc 0.79 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
-
-Epoch: [26 | 120] | Train Time: 64.00 s | BP Average: 4.55 | Natural Test Acc 0.78 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.20 | CW Test Acc 0.22 |
-
-Epoch: [27 | 120] | Train Time: 65.00 s | BP Average: 4.68 | Natural Test Acc 0.67 | FGSM Test Acc 0.30 | PGD20 Test Acc 0.14 | CW Test Acc 0.15 |
-
-Epoch: [28 | 120] | Train Time: 65.00 s | BP Average: 4.70 | Natural Test Acc 0.78 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
-
-Epoch: [29 | 120] | Train Time: 65.00 s | BP Average: 4.72 | Natural Test Acc 0.77 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.22 | CW Test Acc 0.23 |
-
-Epoch: [30 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [31 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.77 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
-
-Epoch: [32 | 120] | Train Time: 66.00 s | BP Average: 4.85 | Natural Test Acc 0.74 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.17 | CW Test Acc 0.18 |
-
-Epoch: [33 | 120] | Train Time: 65.00 s | BP Average: 4.65 | Natural Test Acc 0.65 | FGSM Test Acc 0.28 | PGD20 Test Acc 0.11 | CW Test Acc 0.12 |
-
-Epoch: [34 | 120] | Train Time: 65.00 s | BP Average: 4.69 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.19 | CW Test Acc 0.21 |
-
-Epoch: [35 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
-
-Epoch: [36 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.18 | CW Test Acc 0.19 |
-
-Epoch: [37 | 120] | Train Time: 67.00 s | BP Average: 4.91 | Natural Test Acc 0.80 | FGSM Test Acc 0.41 | PGD20 Test Acc 0.18 | CW Test Acc 0.19 |
-
-Epoch: [38 | 120] | Train Time: 65.00 s | BP Average: 4.80 | Natural Test Acc 0.71 | FGSM Test Acc 0.35 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
-
-Epoch: [39 | 120] | Train Time: 66.00 s | BP Average: 4.94 | Natural Test Acc 0.76 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.23 | CW Test Acc 0.25 |
-
-Epoch: [40 | 120] | Train Time: 66.00 s | BP Average: 4.89 | Natural Test Acc 0.81 | FGSM Test Acc 0.45 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
-
-Epoch: [41 | 120] | Train Time: 66.00 s | BP Average: 4.91 | Natural Test Acc 0.78 | FGSM Test Acc 0.38 | PGD20 Test Acc 0.16 | CW Test Acc 0.17 |
-
-Epoch: [42 | 120] | Train Time: 66.00 s | BP Average: 4.89 | Natural Test Acc 0.72 | FGSM Test Acc 0.37 | PGD20 Test Acc 0.17 | CW Test Acc 0.19 |
-
-Epoch: [43 | 120] | Train Time: 67.00 s | BP Average: 5.01 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.23 | CW Test Acc 0.25 |
-
-Epoch: [44 | 120] | Train Time: 66.00 s | BP Average: 4.88 | Natural Test Acc 0.80 | FGSM Test Acc 0.43 | PGD20 Test Acc 0.20 | CW Test Acc 0.21 |
-
-Epoch: [45 | 120] | Train Time: 66.00 s | BP Average: 4.86 | Natural Test Acc 0.80 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
-
-Epoch: [46 | 120] | Train Time: 67.00 s | BP Average: 5.00 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.23 |
-
-Epoch: [47 | 120] | Train Time: 67.00 s | BP Average: 5.00 | Natural Test Acc 0.83 | FGSM Test Acc 0.46 | PGD20 Test Acc 0.23 | CW Test Acc 0.24 |
-
-Epoch: [48 | 120] | Train Time: 66.00 s | BP Average: 4.84 | Natural Test Acc 0.77 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
-
-Epoch: [49 | 120] | Train Time: 66.00 s | BP Average: 4.87 | Natural Test Acc 0.81 | FGSM Test Acc 0.42 | PGD20 Test Acc 0.19 | CW Test Acc 0.20 |
-
-Epoch: [50 | 120] | Train Time: 67.00 s | BP Average: 4.93 | Natural Test Acc 0.81 | FGSM Test Acc 0.44 | PGD20 Test Acc 0.21 | CW Test Acc 0.22 |
-
-Epoch: [51 | 120] | Train Time: 76.00 s | BP Average: 6.16 | Natural Test Acc 0.81 | FGSM Test Acc 0.51 | PGD20 Test Acc 0.29 | CW Test Acc 0.29 |
-
-Epoch: [52 | 120] | Train Time: 77.00 s | BP Average: 6.29 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.27 | CW Test Acc 0.27 |
-
-Epoch: [53 | 120] | Train Time: 78.00 s | BP Average: 6.30 | Natural Test Acc 0.81 | FGSM Test Acc 0.50 | PGD20 Test Acc 0.29 | CW Test Acc 0.29 |
-
-Epoch: [54 | 120] | Train Time: 77.00 s | BP Average: 6.27 | Natural Test Acc 0.82 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.25 | CW Test Acc 0.26 |
-
-Epoch: [55 | 120] | Train Time: 77.00 s | BP Average: 6.25 | Natural Test Acc 0.81 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
-
-Epoch: [56 | 120] | Train Time: 77.00 s | BP Average: 6.15 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.27 | CW Test Acc 0.28 |
-
-Epoch: [57 | 120] | Train Time: 77.00 s | BP Average: 6.23 | Natural Test Acc 0.81 | FGSM Test Acc 0.50 | PGD20 Test Acc 0.29 | CW Test Acc 0.30 |
-
-Epoch: [58 | 120] | Train Time: 77.00 s | BP Average: 6.19 | Natural Test Acc 0.82 | FGSM Test Acc 0.49 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
-
-Epoch: [59 | 120] | Train Time: 76.00 s | BP Average: 6.17 | Natural Test Acc 0.81 | FGSM Test Acc 0.47 | PGD20 Test Acc 0.26 | CW Test Acc 0.27 |
-
-Epoch: [60 | 120] | Train Time: 81.00 s | BP Average: 6.95 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [61 | 120] | Train Time: 83.00 s | BP Average: 7.10 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [62 | 120] | Train Time: 83.00 s | BP Average: 7.13 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [63 | 120] | Train Time: 83.00 s | BP Average: 7.18 | Natural Test Acc 0.85 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [64 | 120] | Train Time: 83.00 s | BP Average: 7.21 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [65 | 120] | Train Time: 83.00 s | BP Average: 7.23 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [66 | 120] | Train Time: 84.00 s | BP Average: 7.24 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [67 | 120] | Train Time: 84.00 s | BP Average: 7.27 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [68 | 120] | Train Time: 84.00 s | BP Average: 7.28 | Natural Test Acc 0.85 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [69 | 120] | Train Time: 84.00 s | BP Average: 7.30 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [70 | 120] | Train Time: 84.00 s | BP Average: 7.30 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [71 | 120] | Train Time: 84.00 s | BP Average: 7.32 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.34 |
-
-Epoch: [72 | 120] | Train Time: 84.00 s | BP Average: 7.34 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [73 | 120] | Train Time: 85.00 s | BP Average: 7.36 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [74 | 120] | Train Time: 85.00 s | BP Average: 7.36 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [75 | 120] | Train Time: 86.00 s | BP Average: 7.36 | Natural Test Acc 0.87 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [76 | 120] | Train Time: 85.00 s | BP Average: 7.38 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [77 | 120] | Train Time: 85.00 s | BP Average: 7.39 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [78 | 120] | Train Time: 85.00 s | BP Average: 7.39 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [79 | 120] | Train Time: 85.00 s | BP Average: 7.41 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [80 | 120] | Train Time: 85.00 s | BP Average: 7.42 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [81 | 120] | Train Time: 85.00 s | BP Average: 7.42 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [82 | 120] | Train Time: 85.00 s | BP Average: 7.43 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [83 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [84 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [85 | 120] | Train Time: 86.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.35 | CW Test Acc 0.35 |
-
-Epoch: [86 | 120] | Train Time: 85.00 s | BP Average: 7.44 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [87 | 120] | Train Time: 85.00 s | BP Average: 7.45 | Natural Test Acc 0.86 | FGSM Test Acc 0.56 | PGD20 Test Acc 0.34 | CW Test Acc 0.35 |
-
-Epoch: [88 | 120] | Train Time: 86.00 s | BP Average: 7.46 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [89 | 120] | Train Time: 86.00 s | BP Average: 7.47 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [90 | 120] | Train Time: 86.00 s | BP Average: 7.59 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [91 | 120] | Train Time: 90.00 s | BP Average: 8.03 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [92 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [93 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [94 | 120] | Train Time: 91.00 s | BP Average: 8.06 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [95 | 120] | Train Time: 90.00 s | BP Average: 8.06 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [96 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.35 | CW Test Acc 0.36 |
-
-Epoch: [97 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [98 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [99 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [100 | 120] | Train Time: 90.00 s | BP Average: 8.07 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [101 | 120] | Train Time: 90.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [102 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [103 | 120] | Train Time: 90.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [104 | 120] | Train Time: 90.00 s | BP Average: 8.08 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [105 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [106 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [107 | 120] | Train Time: 92.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [108 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.86 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [109 | 120] | Train Time: 91.00 s | BP Average: 8.09 | Natural Test Acc 0.87 | FGSM Test Acc 0.57 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [110 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [111 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [112 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [113 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [114 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [115 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [116 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.87 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [117 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [118 | 120] | Train Time: 91.00 s | BP Average: 8.11 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [119 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
-
-Epoch: [120 | 120] | Train Time: 91.00 s | BP Average: 8.10 | Natural Test Acc 0.86 | FGSM Test Acc 0.58 | PGD20 Test Acc 0.36 | CW Test Acc 0.36 |
+Epoch	Natural Test Acc	FGSM Acc	PGD20 Acc	CW Acc	
+1.000000	0.373700	0.201100	0.143900	0.132400	
+2.000000	0.485400	0.247700	0.154600	0.161000	
+3.000000	0.542400	0.275100	0.175300	0.184800	
+4.000000	0.588200	0.306700	0.177300	0.198400	
+5.000000	0.645400	0.337000	0.200700	0.213800	
+6.000000	0.615900	0.303700	0.183100	0.187700	
+7.000000	0.517700	0.272300	0.167700	0.177900	
+8.000000	0.613800	0.290700	0.145800	0.155300	
+9.000000	0.699900	0.389300	0.225300	0.239000	
+10.000000	0.644700	0.381000	0.229400	0.249700	
+11.000000	0.734800	0.413100	0.225500	0.239700	
+12.000000	0.704900	0.364300	0.185400	0.196100	
+13.000000	0.750900	0.429800	0.245400	0.262100	
+14.000000	0.744800	0.430200	0.259300	0.273300	
+15.000000	0.766300	0.380400	0.171900	0.186500	
+16.000000	0.697700	0.359100	0.176500	0.193600	
+17.000000	0.771600	0.449400	0.269500	0.279200	
+18.000000	0.618800	0.290500	0.152300	0.168700	
+19.000000	0.635800	0.352900	0.212500	0.217100	
+20.000000	0.754200	0.441500	0.249500	0.268100	
+21.000000	0.785300	0.438600	0.243400	0.255700	
+22.000000	0.797300	0.455700	0.239600	0.254300	
+23.000000	0.755300	0.434100	0.230000	0.243400	
+24.000000	0.763800	0.450000	0.260800	0.275900	
+25.000000	0.791300	0.460800	0.256000	0.269200	
+26.000000	0.747100	0.391000	0.190000	0.206100	
+27.000000	0.796000	0.465400	0.248000	0.263300	
+28.000000	0.772200	0.450100	0.240800	0.255100	
+29.000000	0.686700	0.335300	0.169700	0.177100	
+30.000000	0.783700	0.418200	0.220000	0.232300	
+31.000000	0.766500	0.429600	0.242700	0.258300	
+32.000000	0.774600	0.431900	0.230600	0.251000	
+33.000000	0.698000	0.386700	0.208800	0.217900	
+34.000000	0.741900	0.392600	0.201900	0.217100	
+35.000000	0.787500	0.434800	0.229700	0.242300	
+36.000000	0.781700	0.432000	0.219400	0.237400	
+37.000000	0.788100	0.442300	0.238000	0.250700	
+38.000000	0.759500	0.428800	0.240500	0.249100	
+39.000000	0.804200	0.468600	0.249900	0.264100	
+40.000000	0.808900	0.486000	0.266900	0.279900	
+41.000000	0.775700	0.427900	0.226600	0.235600	
+42.000000	0.749600	0.438500	0.247300	0.263600	
+43.000000	0.747200	0.378900	0.182900	0.191100	
+44.000000	0.801300	0.477300	0.265200	0.283000	
+45.000000	0.804800	0.473400	0.264500	0.284500	
+46.000000	0.790400	0.474600	0.263900	0.280600	
+47.000000	0.789900	0.452500	0.247100	0.257900	
+48.000000	0.795600	0.481800	0.260600	0.274300	
+49.000000	0.800700	0.484700	0.271100	0.286400	
+50.000000	0.805500	0.459700	0.249300	0.264500	
+51.000000	0.802200	0.516900	0.320400	0.321400	
+52.000000	0.811400	0.524900	0.331000	0.328500	
+53.000000	0.805800	0.501000	0.313600	0.320600	
+54.000000	0.803400	0.496300	0.307000	0.305200	
+55.000000	0.788200	0.515700	0.343100	0.348800	
+56.000000	0.806900	0.512300	0.323100	0.322800	
+57.000000	0.781500	0.503200	0.317800	0.321300	
+58.000000	0.796600	0.486500	0.294900	0.300500	
+59.000000	0.790700	0.508300	0.322300	0.320700	
+60.000000	0.833100	0.569400	0.381000	0.378900	
+61.000000	0.833000	0.570600	0.388200	0.387200	
+62.000000	0.829500	0.569000	0.390300	0.389400	
+63.000000	0.838100	0.573300	0.388400	0.383100	
+64.000000	0.837000	0.574100	0.395200	0.392200	
+65.000000	0.832600	0.577800	0.395700	0.390800	
+66.000000	0.841000	0.575200	0.393500	0.390000	
+67.000000	0.836400	0.577400	0.395000	0.392400	
+68.000000	0.843600	0.578200	0.387200	0.383100	
+69.000000	0.843100	0.574800	0.394800	0.389700	
+70.000000	0.843200	0.574400	0.393200	0.391600	
+71.000000	0.840300	0.582700	0.395400	0.391000	
+72.000000	0.842900	0.580400	0.398400	0.393000	
+73.000000	0.838300	0.578000	0.389100	0.388100	
+74.000000	0.840500	0.579600	0.391500	0.390200	
+75.000000	0.842600	0.579800	0.392000	0.392200	
+76.000000	0.847900	0.580500	0.391600	0.390700	
+77.000000	0.845200	0.579000	0.389600	0.388200	
+78.000000	0.846500	0.574500	0.389200	0.384300	
+79.000000	0.842300	0.577000	0.391300	0.391000	
+80.000000	0.842800	0.579700	0.394300	0.390500	
+81.000000	0.842700	0.575400	0.391300	0.390400	
+82.000000	0.843400	0.577700	0.392600	0.392100	
+83.000000	0.843300	0.578600	0.393900	0.390300	
+84.000000	0.847500	0.578000	0.393300	0.391200	
+85.000000	0.843400	0.578700	0.391700	0.390600	
+86.000000	0.842100	0.579600	0.391400	0.388800	
+87.000000	0.845700	0.575200	0.395000	0.392500	
+88.000000	0.844600	0.578600	0.390400	0.391200	
+89.000000	0.841800	0.575800	0.393000	0.393500	
+90.000000	0.848900	0.582300	0.397100	0.394400	
+91.000000	0.844200	0.586300	0.407500	0.398300	
+92.000000	0.843800	0.587900	0.409400	0.399400	
+93.000000	0.844000	0.589500	0.411100	0.399800	
+94.000000	0.843400	0.589900	0.408600	0.398700	
+95.000000	0.843900	0.588000	0.409300	0.399100	
+96.000000	0.842500	0.589800	0.409000	0.400100	
+97.000000	0.843100	0.589400	0.412600	0.401400	
+98.000000	0.843400	0.591600	0.409500	0.398100	
+99.000000	0.844000	0.591200	0.410500	0.401000	
+100.000000	0.842300	0.590300	0.410600	0.399100	
+101.000000	0.841800	0.590600	0.411500	0.400300	
+102.000000	0.841900	0.590800	0.410300	0.402100	
+103.000000	0.842400	0.589900	0.411700	0.398200	
+104.000000	0.841500	0.591500	0.411700	0.399900	
+105.000000	0.840600	0.591100	0.411300	0.404800	
+106.000000	0.841100	0.589900	0.408100	0.400600	
+107.000000	0.842200	0.590300	0.412800	0.401800	
+108.000000	0.841900	0.590600	0.408800	0.399900	
+109.000000	0.843200	0.592500	0.409600	0.398800	
+110.000000	0.842300	0.592700	0.409500	0.400500	
+111.000000	0.842300	0.592000	0.412800	0.401000	
+112.000000	0.840200	0.591600	0.409700	0.401100	
+113.000000	0.840500	0.590800	0.410400	0.399700	
+114.000000	0.841400	0.592100	0.409100	0.401700	
+115.000000	0.842600	0.592700	0.410900	0.398700	
+116.000000	0.842900	0.591800	0.408700	0.400100	
+117.000000	0.841100	0.592200	0.409600	0.402400	
+118.000000	0.842000	0.590100	0.411700	0.401500	
+119.000000	0.842700	0.594200	0.412200	0.403700	
+120.000000	0.841000	0.591000	0.412100	0.402300	
