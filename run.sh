@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 FAT.py --net smallcnn
+python3 FAT.py --net smallcnn --dataset mnist
