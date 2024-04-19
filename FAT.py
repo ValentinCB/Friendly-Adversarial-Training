@@ -124,6 +124,11 @@ if args.dataset == "svhn":
     train_loader = torch.utils.data.DataLoader(trainset, batch_size=128, shuffle=True, num_workers=2)
     testset = torchvision.datasets.SVHN(root='./data', split='test', download=True, transform=transform_test)
     test_loader = torch.utils.data.DataLoader(testset, batch_size=128, shuffle=False, num_workers=2)
+if args.dataset == "mnist":
+    trainset = torchvision.datasets.MNIST(root='./data', train=True, download=True, transform=transform_train)
+    train_loader = torch.utils.data.DataLoader(trainset, batch_size=128, shuffle=True, num_workers=2)
+    testset = torchvision.datasets.MNIST(root='./data', train=False, download=True, transform=transform_test)
+    test_loader = torch.utils.data.DataLoader(testset, batch_size=128, shuffle=False, num_workers=2)
 
 print('==> Load Model')
 if args.net == "smallcnn":
